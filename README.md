@@ -37,3 +37,13 @@ JFrame, JPanel, JLabel, JTextField, JButton, JOptionPane, BorderLayout, GridLayo
 | Es Teh | 5000 | 4 | 10000 | Total Rp20.000, pembayaran kurang Rp10.000 |
 
 Simpan tangkapan layar tampilan utama, hasil perhitungan total, dan hasil pembayaran ke folder `screenshots`, lalu tampilkan di README dengan Markdown.
+## Screenshot Aplikasi
+
+### 1. Tampilan Utama
+![Tampilan Utama](Kasir_kantin/screenshots/Tampilan.png)
+
+### 2. Hasil Perhitungan Total Harga Es Teh
+![Hasil Perhitungan](Kasir_kantin/screenshots/Es Teh.png)
+
+### 3. Hasil Pembayaran dan Kembalian Nasi Goreng
+![Hasil Pembayaran](Kasir_kantin/screenshots/Nasi Goreng.png)
