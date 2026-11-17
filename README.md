@@ -43,7 +43,7 @@ Simpan tangkapan layar tampilan utama, hasil perhitungan total, dan hasil pembay
 ![Tampilan Utama](Kasir_kantin/screenshots/Tampilan.png)
 
 ### 2. Hasil Perhitungan Total Harga Es Teh
-![Hasil Perhitungan](Kasir_kantin/screenshots/Es Teh.png)
+![Hasil Perhitungan](Kasir_kantin/screenshots/EsTeh.png)
 
 ### 3. Hasil Pembayaran dan Kembalian Nasi Goreng
-![Hasil Pembayaran](Kasir_kantin/screenshots/Nasi Goreng.png)
+![Hasil Pembayaran](Kasir_kantin/screenshots/NasiGoreng.png)
